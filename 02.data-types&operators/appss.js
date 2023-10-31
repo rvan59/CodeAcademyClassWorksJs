@@ -19,3 +19,10 @@
 // }
 // else{ console.log(`${letter} samit herifdir`);}
 
+// task3
+let a=12;
+let b=21;
+let d=32;
+if (d+b>a+b & a+d<b+d ) {
+    console.log();
+}
