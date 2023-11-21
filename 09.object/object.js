@@ -1,11 +1,11 @@
-let object = {
-  firstName: "Revan",
-  lastName: "muxdarov",
-  age: "19",
-  skills: "hecne",
-  uni: "GDU",
-  sity: "Terter",
-};
+// let object = {
+//   firstName: "Revan",
+//   lastName: "muxdarov",
+//   age: "19",
+//   skills: "hecne",
+//   uni: "GDU",
+//   sity: "Terter",
+// };
 // // 1
 // console.log(Object.keys(object));
 // // 2
