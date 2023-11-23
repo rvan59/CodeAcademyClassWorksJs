@@ -1,0 +1,1 @@
+let start = document.getElementsByClassName("start")
