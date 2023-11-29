@@ -1,0 +1,25 @@
+body{
+    background-color: aliceblue;
+    color: black;
+}
+button{
+    border: none;
+    background-color: blue;
+    border-radius: 8px;
+}
+.cardB{
+    border: 1px solid black;
+  width: 250px;
+  border-radius: 5px;
+}
+.cardA{
+    border: 1px solid black;
+  width: 250px;
+  border-radius: 5px;
+}
+
+.dark-mode{
+    background-color: black;
+    color: aliceblue;
+
+}
