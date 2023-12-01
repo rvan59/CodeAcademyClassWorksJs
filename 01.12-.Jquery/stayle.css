@@ -1,0 +1,18 @@
+
+
+.btn{
+    background-color: blue;
+    color: white;
+    border: none;
+    width: 50px;
+    height: 25px;
+    border-radius: 4px;
+}
+
+.mb-3{
+   display: flex;
+
+   width: 400px;
+    background-color: white;
+
+}
