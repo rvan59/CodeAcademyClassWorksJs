@@ -34,4 +34,3 @@ $(".btn").on("click", function () {
   $(".box").append(p);
   $("input").val("");
 });
-localStorage.setItem("p", JSON.stringify());
